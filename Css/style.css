@@ -757,6 +757,12 @@ ul.style3 .first {
 		padding: 5em 0em;
 		background: #FFF
 	}
+	#map
+	{
+	width : 500px;
+	height : 400px;
+	background-color: #CCC; 
+	}
 	
 	#slideshow{
 		align-items:center;
