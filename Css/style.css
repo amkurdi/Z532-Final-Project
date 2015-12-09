@@ -650,7 +650,7 @@ ul.style3 .first {
 		{
 			position: absolute;
 			display: inline-block;
-			margin-top: 2em;
+			margin-top: 0.5em;
 			padding: 1em 1.5em;
 			background: #323338;
 			border-radius: 4px;
