@@ -767,3 +767,8 @@ ul.style3 .first {
 	#slideshow{
 		align-items:center;
 	}
+	
+	#iframe{
+		align-content: center;
+		align-items:center;
+	}
